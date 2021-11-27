@@ -1,6 +1,6 @@
 # Instagram Clone 
-# Framework - react.js(javascript)
-# Features 
+# LINK - https://instagram-clone-react-82c46.web.app/
+Features
    - Sign in.
    - Log out.
    - upload images.
